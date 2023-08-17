@@ -9,6 +9,7 @@ It is an application where you can play with text.
 <li>User can delete all the extra spaces.</li>
 <li>User can know how much time it will take to read the sentence.</li>
 <li>User can delete all the text at once.</li>
+<li>Best for personal use</li>
 </ul>
 
 Take a look - https://benevolent-jelly-ba68a8.netlify.app/
